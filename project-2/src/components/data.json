@@ -1,0 +1,74 @@
+{
+    "heroes": [
+        {
+            "id": 1,
+            "image": "https://www.dotafire.com/images/hero/icon/alchemist.png",
+            "name": "Alchemist",
+            "primaryAttribute": "Strength",
+            "attackType": "Melee",
+            "Role": [
+                "Carry",
+                "Disabler"
+            ]
+        },
+        {
+            "id": 2,
+            "image": "https://www.dotafire.com/images/hero/icon/ancient-apparition.png",
+            "name": "Ancient Apparition",
+            "primaryAttribute": "Intelligence",
+            "attackType": "Ranged",
+            "Role": [
+                "Support",
+                "Disabler"
+            ]
+        },
+        {
+            "id": 3,
+            "image": "https://www.dotafire.com/images/hero/icon/anti-mage.png",
+            "name": "Anti-Mage",
+            "primaryAttribute": "Agility",
+            "attackType": "Melee",
+            "Role": [
+                "Carry",
+                "Escape"
+            ]
+        },
+        {
+            "id": 4,
+            "image": "https://www.dotafire.com/images/hero/icon/axe.png",
+            "name": "Axe",
+            "primaryAttribute": "Strength",
+            "attackType": "Melee",
+            "Role": [
+                "Initiator",
+                "Disabler",
+                "Jungler",
+                "Durable"
+            ]
+        },
+        {
+            "id": 5,
+            "image": "https://www.dotafire.com/images/hero/icon/arc-warden.png",
+            "name": "Arc Warden",
+            "primaryAttribute": "Agility",
+            "attackType": "Ranged",
+            "Role": [
+                "Carry",
+                "Pusher"
+            ]
+        },
+        {
+            "id": 6,
+            "image": "https://www.dotafire.com/images/hero/icon/brewmaster.png",
+            "name": "Brew Master",
+            "primaryAttribute": "Strength",
+            "attackType": "Melee",
+            "Role": [
+                "Initiatator",
+                "Durable",
+                "Escape",
+                "Semi-Carry"
+            ]
+        }
+    ]
+}
